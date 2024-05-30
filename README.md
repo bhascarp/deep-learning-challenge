@@ -1,6 +1,6 @@
 # Deep-learning-challenge
 
-The challenge has been completed and the Colab notebooks with the solution, have been placed in the 'Deep Learning Challenge' directory in the repository. The report on the model is also in the same directory. 
+The challenge has been completed and the Colab notebooks with the solution, have been placed in the 'Deep Learning Challenge' directory in the repository. The report on the model is written in a word document which is also in the same directory. Please download the file and see the report content.
 
 The HDF5 files for the results are in the folder, 'Resources' within the Deep Learning Challenge folder.
 
